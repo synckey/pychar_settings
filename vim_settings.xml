@@ -325,7 +325,12 @@
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="71" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513242332593" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513247249874">
+        <mark key="[" line="286" column="43" />
+        <mark key="]" line="286" column="50" />
+        <mark key="^" line="286" column="50" />
+        <mark key="." line="286" column="50" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/test/validation.py" timestamp="1510823895736">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -337,11 +342,11 @@
         <mark key="." line="11" column="64" />
         <mark key="^" line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.sh" timestamp="1513243044837">
-        <mark key="[" line="10" column="78" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="37" />
-        <mark key="." line="10" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.sh" timestamp="1513246082063">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/tuples_data.py" timestamp="1492140786240">
         <mark key="[" line="35" column="27" />
@@ -565,6 +570,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/xgbtrain.sh" timestamp="1513246739750">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/tuples_train.py" timestamp="1492140922539">
         <mark key="[" line="45" column="2" />
         <mark key="]" line="45" column="2" />
@@ -694,11 +705,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/trans_data.py" timestamp="1513243994681">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="28" />
-        <mark key="^" line="30" column="28" />
-        <mark key="." line="30" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/trans_data.py" timestamp="1513246148380">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/test.py" timestamp="1503234611917">
         <mark key="[" line="10" column="19" />
@@ -958,26 +969,26 @@
       <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/mapper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAke3hnYm9vc3R9IHRyYWluLmNvbmYgdGVzdDpkYXRhPSJtcTIwMDgudGVzdCIgZXZhbFt0ZXN0XT0ibXEyMDA4LnZhbGkiIAo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke3hnYm9vc3R9IHRyYWluLmNvbmYgdGVzdDpkYXRhPSJtcTIwMDgudGVzdCIgZXZhbFt0ZXN0XT0ibXEyMDA4LnZhbGkiIAo=</text>
+        <text encoding="base64">ICAgICAgICBweXRob24gdHJhbnNfZGF0YS5weSAke3Rlc3RkYXRhfS5mZWF0dXJlcy4ke2RheXN9LnR4dCAgJHt0ZXN0ZGF0YX0uJHtkYXlzfS5mZWF0dXJlcyAke3Rlc3RkYXRhfS4ke2RheXN9LmZlYXR1cmVzLmdyb3VwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR7c2NlbmV9KyJmIiske3BsYXRmb3JtfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -986,16 +997,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlcyA9IFswIGZvciBpIGluIHJhbmdlKDEyOCldCiAgICAgICAgbGFiZWwgPSBlbGVtZW50LmdldCgnbGFiZWwnKQogICAgICAgIGhpdF9jb3VudCA9IGxlbihlbGVtZW50LmdldCgnaGl0cycpKSAgIyDlkb3kuK3nsbvlnovkuKrmlbAKICAgICAgICBmZWF0dXJlX2luZGV4ID0gMAogICAgICAgIGZlYXR1cmVzW2ZlYXR1cmVfaW5kZXggKyBoaXRfY291bnRdID0gMSAgIyDlkb3kuK3kuKrmlbBbMCw5XQoKICAgICAgICBmZWF0dXJlX2luZGV4ID0gZmVhdHVyZV9pbmRleCArIDEwICAjIDEwCiAgICAgICAgZmVhdHVyZXNbZmVhdHVyZV9pbmRleCArIGVsZW1lbnQuZ2V0KCdoaXRUeXBlJyldID0gMSAgIyPlkb3kuK3nsbvlnovvvJrliY3nvIDlj6zlm54s5q2j5bqP5peg6Ze06ZqULOato+W6j+aciemXtOmalCzlj43luo/mnInpl7TpmpQgWzEwLDE5XQoKICAgICAgICBmZWF0dXJlX2luZGV4ICs9IDEwICAjIDIwCiAgICAgICAgbl9zY29yZSA9IGVsZW1lbnQuZ2V0KCduX3Njb3JlJykKICAgICAgICBob3Rfc2NvcmUgPSBlbGVtZW50LmdldCgnaG90U2NvcmUnKQogICAgICAgIGlmIG5vdCBob3Rfc2NvcmUgb3IgaG90X3Njb3JlIDwgMToKICAgICAgICAgICAgaG90X3Njb3JlID0gMQogICAgICAgIGZlYXR1cmVzW2ZlYXR1cmVfaW5kZXggKyBpbnQobl9zY29yZSAqIDIwKV0gPSAxICAjIyBbMjAsIDM5XSDlvZLkuIDljJbku6XlkI7nmoTnm7jlhbPmgKfliIbmlbAKICAgICAgICBmZWF0dXJlX2luZGV4ICs9IDMwICAjIDUwCiAgICAgICAgaG90X3Njb3JlID0gbWF0aC5sb2coaG90X3Njb3JlKQoKICAgICAgICBpZiBob3Rfc2NvcmUgPiAyMDoKICAgICAgICAgICAgaG90X3Njb3JlID0gMjAKICAgICAgICBmZWF0dXJlc1tmZWF0dXJlX2luZGV4ICsgaW50KGhvdF9zY29yZSldID0gMSAgIyMgWzUwLCA2OV0g5b2S5LiA5YyW5Lul5ZCO55qE54Ot5bqm5YiG5pWwCiAgICAgICAgZmVhdHVyZV9pbmRleCArPSAzMAoKICAgICAgICBpZiAoZWxlbWVudC5nZXQoJ25hbWUnKS5fX2NvbnRhaW5zX18oc2VsZi5pbnB1dCkpOgogICAgICAgICAgICBmZWF0dXJlc1sKICAgICAgICAgICAgICAgIGZlYXR1cmVfaW5kZXggKyBpbnQoMTAgKiBsZW4oc2VsZi5pbnB1dCkgKiAxLjAgLyBsZW4oZWxlbWVudC5nZXQoJ25hbWUnKSkpXSA9IDEgICMjIFs4MCwgODld6L6T5YWl6K+NL+aPkOekuuivjeeahOmVv+W6pgogICAgICAgIGVsZW1lbnRbJ2xhYmVsJ10gPSBsYWJlbCAgIyDlpoLmnpzmmK/or4TkvLDmlbDmja7vvIzliJnkuLpOb25lCiAgICAgICAgZWxlbWVudFsnZmVhdHVyZXMnXSA9IGZlYXR1cmVzCiAgICAgICAgcmV0dXJuIGxhYmVsLCBmZWF0dXJlcwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">cHdkPSQoY2QgJChkaXJuYW1lICQwKSA7IHB3ZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR7c2NlbmV9KyJmIiske3BsYXRmb3JtfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhjaXR5X21hcCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
