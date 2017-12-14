@@ -27,13 +27,6 @@
         <mark key="^" line="154" column="4" />
         <mark key="." line="153" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/mapper.py" timestamp="1511148112367">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/image_processing.py" timestamp="1492433018999">
         <mark key="[" line="24" column="9" />
         <mark key="]" line="23" column="0" />
@@ -79,7 +72,7 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.py" timestamp="1513238962050" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.py" timestamp="1513242216596" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/a.sh" timestamp="1491489853518">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="23" />
@@ -164,7 +157,10 @@
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" timestamp="1513239114158">
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/1000.txt" timestamp="1513241740148">
+        <mark key="[" line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" timestamp="1513242770315">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
@@ -182,6 +178,7 @@
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/evaluate_once.py" timestamp="1513241355992" />
       <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/calc_real_time_hprice.sql" timestamp="1493350108872">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="38" />
@@ -330,6 +327,7 @@
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="71" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513242332593" />
       <file name="$USER_HOME$/PycharmProjects/test/validation.py" timestamp="1510823895736">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -341,12 +339,11 @@
         <mark key="." line="11" column="64" />
         <mark key="^" line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/data.py" timestamp="1511169872646">
-        <mark key="'" line="99" column="36" />
-        <mark key="[" line="198" column="22" />
-        <mark key="]" line="198" column="36" />
-        <mark key="." line="198" column="36" />
-        <mark key="^" line="198" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.sh" timestamp="1513243044837">
+        <mark key="[" line="10" column="78" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/tuples_data.py" timestamp="1492140786240">
         <mark key="[" line="35" column="27" />
@@ -699,6 +696,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/trans_data.py" timestamp="1513241785737">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/test.py" timestamp="1503234611917">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="5" />
@@ -958,19 +961,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAke3hnYm9vc3R9IHRyYWluLmNvbmYgdGVzdDpkYXRhPSJtcTIwMDgudGVzdCIgZXZhbFt0ZXN0XT0ibXEyMDA4LnZhbGkiIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2NjZXNzX29uZV90eXBlKHBhZ2UsIHNlbGYucmVfZGlzcGxheW1vZGUsICdkaXNwbGF5JykK</text>
+        <text encoding="base64">ICAgICAgICAke3hnYm9vc3R9IHRyYWluLmNvbmYgdGVzdDpkYXRhPSJtcTIwMDgudGVzdCIgZXZhbFt0ZXN0XT0ibXEyMDA4LnZhbGkiIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR7c2NlbmV9KyJmIiske3BsYXRmb3JtfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -984,17 +987,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBmZWF0dXJlcyA9IFswIGZvciBpIGluIHJhbmdlKDEyOCldCiAgICAgICAgbGFiZWwgPSBlbGVtZW50LmdldCgnbGFiZWwnKQogICAgICAgIGhpdF9jb3VudCA9IGxlbihlbGVtZW50LmdldCgnaGl0cycpKSAgIyDlkb3kuK3nsbvlnovkuKrmlbAKICAgICAgICBmZWF0dXJlX2luZGV4ID0gMAogICAgICAgIGZlYXR1cmVzW2ZlYXR1cmVfaW5kZXggKyBoaXRfY291bnRdID0gMSAgIyDlkb3kuK3kuKrmlbBbMCw5XQoKICAgICAgICBmZWF0dXJlX2luZGV4ID0gZmVhdHVyZV9pbmRleCArIDEwICAjIDEwCiAgICAgICAgZmVhdHVyZXNbZmVhdHVyZV9pbmRleCArIGVsZW1lbnQuZ2V0KCdoaXRUeXBlJyldID0gMSAgIyPlkb3kuK3nsbvlnovvvJrliY3nvIDlj6zlm54s5q2j5bqP5peg6Ze06ZqULOato+W6j+aciemXtOmalCzlj43luo/mnInpl7TpmpQgWzEwLDE5XQoKICAgICAgICBmZWF0dXJlX2luZGV4ICs9IDEwICAjIDIwCiAgICAgICAgbl9zY29yZSA9IGVsZW1lbnQuZ2V0KCduX3Njb3JlJykKICAgICAgICBob3Rfc2NvcmUgPSBlbGVtZW50LmdldCgnaG90U2NvcmUnKQogICAgICAgIGlmIG5vdCBob3Rfc2NvcmUgb3IgaG90X3Njb3JlIDwgMToKICAgICAgICAgICAgaG90X3Njb3JlID0gMQogICAgICAgIGZlYXR1cmVzW2ZlYXR1cmVfaW5kZXggKyBpbnQobl9zY29yZSAqIDIwKV0gPSAxICAjIyBbMjAsIDM5XSDlvZLkuIDljJbku6XlkI7nmoTnm7jlhbPmgKfliIbmlbAKICAgICAgICBmZWF0dXJlX2luZGV4ICs9IDMwICAjIDUwCiAgICAgICAgaG90X3Njb3JlID0gbWF0aC5sb2coaG90X3Njb3JlKQoKICAgICAgICBpZiBob3Rfc2NvcmUgPiAyMDoKICAgICAgICAgICAgaG90X3Njb3JlID0gMjAKICAgICAgICBmZWF0dXJlc1tmZWF0dXJlX2luZGV4ICsgaW50KGhvdF9zY29yZSldID0gMSAgIyMgWzUwLCA2OV0g5b2S5LiA5YyW5Lul5ZCO55qE54Ot5bqm5YiG5pWwCiAgICAgICAgZmVhdHVyZV9pbmRleCArPSAzMAoKICAgICAgICBpZiAoZWxlbWVudC5nZXQoJ25hbWUnKS5fX2NvbnRhaW5zX18oc2VsZi5pbnB1dCkpOgogICAgICAgICAgICBmZWF0dXJlc1sKICAgICAgICAgICAgICAgIGZlYXR1cmVfaW5kZXggKyBpbnQoMTAgKiBsZW4oc2VsZi5pbnB1dCkgKiAxLjAgLyBsZW4oZWxlbWVudC5nZXQoJ25hbWUnKSkpXSA9IDEgICMjIFs4MCwgODld6L6T5YWl6K+NL+aPkOekuuivjeeahOmVv+W6pgogICAgICAgIGVsZW1lbnRbJ2xhYmVsJ10gPSBsYWJlbCAgIyDlpoLmnpzmmK/or4TkvLDmlbDmja7vvIzliJnkuLpOb25lCiAgICAgICAgZWxlbWVudFsnZmVhdHVyZXMnXSA9IGZlYXR1cmVzCiAgICAgICAgcmV0dXJuIGxhYmVsLCBmZWF0dXJlcwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhjaXR5X21hcCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoanNvbi5kdW1wcyhjaXR5X21hcCwgZW5zdXJlX2FzY2lpPUZhbHNlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
