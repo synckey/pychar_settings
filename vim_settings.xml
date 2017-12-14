@@ -79,6 +79,7 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.py" timestamp="1513238962050" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/a.sh" timestamp="1491489853518">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="23" />
@@ -162,6 +163,12 @@
         <mark key="]" line="52" column="29" />
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" timestamp="1513239114158">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/hotel-rank-parse/hotel-rank-parse-task/src/main/resources/mr-scripts/run.sh" timestamp="1493173393608">
         <mark key="[" line="3" column="21" />
@@ -323,7 +330,6 @@
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="71" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qtypeahead_task/qtype_ahead_train/src/scripts/city_url_map" timestamp="1512461565790" />
       <file name="$USER_HOME$/PycharmProjects/test/validation.py" timestamp="1510823895736">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
