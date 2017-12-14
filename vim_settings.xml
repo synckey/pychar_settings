@@ -158,8 +158,9 @@
         <mark key="." line="52" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/1000.txt" timestamp="1513244021927" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" timestamp="1513242770315">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" timestamp="1513249209963">
+        <mark key="'" line="23" column="1" />
+        <mark key="[" line="14" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -325,11 +326,11 @@
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="71" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513247249874">
-        <mark key="[" line="286" column="43" />
-        <mark key="]" line="286" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513248499501">
+        <mark key="[" line="200" column="93" />
+        <mark key="]" line="200" column="93" />
         <mark key="^" line="286" column="50" />
-        <mark key="." line="286" column="50" />
+        <mark key="." line="200" column="93" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/test/validation.py" timestamp="1510823895736">
         <mark key="[" line="88" column="0" />
@@ -570,11 +571,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/xgbtrain.sh" timestamp="1513246739750">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/xgbtrain.sh" timestamp="1513249456998">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/tuples_train.py" timestamp="1492140922539">
         <mark key="[" line="45" column="2" />
@@ -867,8 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="7" filename="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/eval_once.py" />
-      <jump line="73" column="3" filename="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/image_processing.py" />
       <jump line="103" column="4" filename="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/image_processing.py" />
       <jump line="123" column="15" filename="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/eval_once.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/eval_once.py" />
@@ -967,16 +966,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/click_log.txt" />
       <jump line="21" column="4" filename="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/mapper.py" />
       <jump line="24" column="8" filename="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/mapper.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" />
+      <jump line="23" column="1" filename="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeXNcPg==</text>
+        <text>eva</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBweXRob24gdHJhbnNfZGF0YS5weSAke3Rlc3RkYXRhfS5mZWF0dXJlcy4ke2RheXN9LnR4dCAgJHt0ZXN0ZGF0YX0uJHtkYXlzfS5mZWF0dXJlcyAke3Rlc3RkYXRhfS4ke2RheXN9LmZlYXR1cmVzLmdyb3VwCg==</text>
@@ -1013,17 +1014,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeXNcPg==</last-search>
+      <last-search>eva</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeXNcPg==</last-pattern>
+      <last-pattern>eva</last-pattern>
       <last-replace>kylinLog</last-replace>
       <last-substitute>searchReturnLog</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>identi</entry>
         <entry>identity</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>relu</entry>
@@ -1043,6 +1043,7 @@
         <entry>searchReturnLog</entry>
         <entry encoding="base64">XDxleGNlcHRcPg==</entry>
         <entry encoding="base64">XDxzeXNcPg==</entry>
+        <entry>eva</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Ostart/start_date/gc</entry>
