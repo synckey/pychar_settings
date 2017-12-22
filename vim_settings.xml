@@ -15,6 +15,9 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/data_download.py" timestamp="1513925477509">
+        <mark key="[" line="36" column="42" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/tmp.py" timestamp="1492588050680">
         <mark key="[" line="25" column="58" />
         <mark key="]" line="25" column="81" />
@@ -72,7 +75,6 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.py" timestamp="1513242216596" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/a.sh" timestamp="1491489853518">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="23" />
@@ -162,7 +164,6 @@
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/1000.txt" timestamp="1513244021927" />
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" timestamp="1513320397216">
         <mark key="'" line="23" column="1" />
         <mark key="[" line="14" column="0" />
@@ -182,7 +183,6 @@
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/evaluate_once.py" timestamp="1513241355992" />
       <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/calc_real_time_hprice.sql" timestamp="1493350108872">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="38" />
@@ -525,10 +525,15 @@
         <mark key="." line="207" column="25" />
         <mark key="^" line="207" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1513925500893">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="38" />
+        <mark key="^" line="56" column="38" />
+        <mark key="." line="60" column="38" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/train.txt" timestamp="1492243033204">
         <mark key="[" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qtypeahead_task/qtype_ahead_train/src/scripts/estimate.py" timestamp="1513564379742" />
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/model.py" timestamp="1511166443708">
         <mark key="[" line="43" column="26" />
         <mark key="]" line="43" column="22" />
@@ -739,7 +744,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512370334543">
+      <file name="/Dummy.txt" timestamp="1513925423056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -913,10 +918,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>eva</text>
