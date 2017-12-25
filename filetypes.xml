@@ -17,6 +17,7 @@
       <mapping pattern="n" type="PLAIN_TEXT" />
       <mapping pattern="api2_citydata" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
