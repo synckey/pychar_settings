@@ -15,6 +15,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="city_url_map" type="PLAIN_TEXT" />
       <mapping pattern="n" type="PLAIN_TEXT" />
+      <mapping pattern="2017-12-25-fukc-0" type="PLAIN_TEXT" />
       <mapping pattern="api2_citydata" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />

@@ -212,11 +212,8 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/views.py" timestamp="1514186760282">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="63" />
-        <mark key="." line="21" column="63" />
-        <mark key="^" line="21" column="63" />
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/views.py" timestamp="1514188595014">
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads/liblinear-2.11/python/liblinear.py" timestamp="1492074085478">
         <mark key="[" line="29" column="62" />
@@ -394,10 +391,11 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/search_by_uid.html" timestamp="1514184531115">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/search_by_uid.html" timestamp="1514189124623">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="22" column="58" />
+        <mark key="." line="22" column="58" />
+        <mark key="^" line="22" column="59" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_label.py" timestamp="1492243205167">
         <mark key="[" line="15" column="36" />
@@ -831,11 +829,11 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/log_greper/offline_log_grep.sh" timestamp="1514186117564">
-        <mark key="[" line="18" column="82" />
-        <mark key="]" line="18" column="80" />
-        <mark key="^" line="18" column="80" />
-        <mark key="." line="18" column="80" />
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/log_greper/offline_log_grep.sh" timestamp="1514188175735">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/run.sh" timestamp="1493282261056">
         <mark key="[" line="2" column="3" />
@@ -971,44 +969,44 @@
       <jump line="23" column="1" filename="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>eva</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybCgnXnNlYXJjaCcsIGluY2x1ZGUoJ3NlYXJjaF9sb2dfdG9vbC51cmxzJykpLAo=</text>
+        <text encoding="base64">eyVlbmRpZiV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tbGluayI+77yI6ZO+5o6l77yJTGluazwvYnV0dG9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9Im5hdmJhci1icmFuZCIgaHJlZj0iL21vbml0b3IvY3JhYl9yZW5kZXJfZGlmZmVyIj7nlKjmiLfmnKrngrnlh7tEZXRhaWw8L2E+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybCgnXiQnLCB2LnNlYXJjaF9ieV91aWQpLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybCgnXiQnLCBzZWFyY2hfbG9nX3Rvb2wudmlld3Muc2VhcmNoX2J5X3VpZCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YXBwX25hbWUgPSAnaHByaWNlJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IHt7ZmlsZW5hbWV9fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">e3tmaWxlbmFtZX19Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImZpbGVuYW1lIjogZmlsZW5hbWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHslZW5kaWYlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRhdGUiOiBkYXRlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVpZCI6IHVpZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7JWVuZGZvciV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
