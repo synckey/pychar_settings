@@ -461,12 +461,12 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/requests.html" timestamp="1514260121990">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/requests.html" timestamp="1514266240522">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="76" />
-        <mark key="]" line="24" column="36" />
-        <mark key="^" line="24" column="36" />
-        <mark key="." line="24" column="36" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/kernels_svm.py" timestamp="1492004494572">
         <mark key="[" line="68" column="19" />
@@ -814,7 +814,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514265886301">
+      <file name="/Dummy.txt" timestamp="1514266192575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1006,16 +1006,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB3ZWIuc2VhcmNoX2xvZ190b29sLmxvZ2dlciBpbXBvcnQgb3JnX2xvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLmtleX19PC90ZD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>eva</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLnRpbWV8ZGF0ZToiWS1tLWQgSDppOnMifX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLmtleX19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB3ZWIuc2VhcmNoX2xvZ190b29sLmxvZ2dlciBpbXBvcnQgb3JnX2xvZ2dlcgo=</text>
