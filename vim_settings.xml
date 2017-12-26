@@ -403,11 +403,11 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="107" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/search_by_uid.html" timestamp="1514273425283">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="50" />
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/search_by_uid.html" timestamp="1514273747360">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_label.py" timestamp="1492243205167">
         <mark key="[" line="15" column="36" />
@@ -810,7 +810,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514273428122">
+      <file name="/Dummy.txt" timestamp="1514273842041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1004,10 +1004,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
