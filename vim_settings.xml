@@ -317,10 +317,10 @@
       <file name="/fragment.py" timestamp="1491890488433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/logger.py" timestamp="1514266132293">
-        <mark key="[" line="52" column="7" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/logger.py" timestamp="1514272716774">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
         <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/lstm_and_ctc_ocr_train.py" timestamp="1503231889276">
@@ -810,7 +810,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514272476771">
+      <file name="/Dummy.txt" timestamp="1514272531098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1002,11 +1002,11 @@
       <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
