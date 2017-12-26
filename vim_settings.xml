@@ -820,7 +820,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514288104841">
+      <file name="/Dummy.txt" timestamp="1514288581358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -910,11 +910,11 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/kafka_consumer.py" timestamp="1514288312670">
-        <mark key="[" line="19" column="77" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/kafka_consumer.py" timestamp="1514288576475">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
       </file>
     </filemarks>
     <jumps>
