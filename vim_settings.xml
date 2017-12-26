@@ -214,7 +214,7 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/views.py" timestamp="1514276810980">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/views.py" timestamp="1514276982275">
         <mark key="'" line="2" column="28" />
         <mark key="[" line="84" column="5" />
         <mark key="]" line="83" column="20" />
@@ -463,12 +463,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/requests.html" timestamp="1514266240522">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/requests.html" timestamp="1514276955870">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="32" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/kernels_svm.py" timestamp="1492004494572">
         <mark key="[" line="68" column="19" />
@@ -643,7 +643,7 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/urls.py" timestamp="1514276886512">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/urls.py" timestamp="1514276972850">
         <mark key="[" line="22" column="62" />
         <mark key="]" line="22" column="47" />
         <mark key="^" line="22" column="47" />
@@ -817,7 +817,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514276474141">
+      <file name="/Dummy.txt" timestamp="1514276988983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1010,8 +1010,8 @@
       <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslaWZlcXVhbCAgbG9nLnN0YXR1cyAic3VjY2VlZCIlfQogICAgICAgICAgICAgICAgPGEgaHJlZj0iL3Jlc3VsdHMve3tsb2cuZmlsZW5hbWV9fSIgdGFyZ2V0PSJfYmxhbmsiPuS4i+i9veWOn+Wni+e7k+aenDwvYT4KICAgICAgICAgICAgICAgIHslIGVuZGlmZXF1YWwgJX0K</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -1020,34 +1020,34 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15oaXN0b3J5LyQnLCB2aWV3cy5nZXRfdG9wX24sIG5hbWU9J3RvcF9uJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslaWZlcXVhbCAgbG9nLnN0YXR1cyAic3VjY2VlZCIlfQogICAgICAgICAgICAgICAgPGEgaHJlZj0iL3Jlc3VsdHMve3tsb2cuZmlsZW5hbWV9fSIgdGFyZ2V0PSJfYmxhbmsiPuS4i+i9veWOn+Wni+e7k+aenDwvYT4KICAgICAgICAgICAgICAgIHslIGVuZGlmZXF1YWwgJX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLnN0YXR1c319PC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLnRpbWV8ZGF0ZToiWS1tLWQgSDppOnMifX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLnN0YXR1c319PC90ZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB3ZWIuc2VhcmNoX2xvZ190b29sLm1vZGVscyBpbXBvcnQgTG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7bG9nLnRpbWV8ZGF0ZToiWS1tLWQgSDppOnMifX08L3RkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB3ZWIuc2VhcmNoX2xvZ190b29sLm1vZGVscyBpbXBvcnQgTG9nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPuS4i+i9vTwvdGg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPlN0YXR1czwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPuS4i+i9vTwvdGg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPlN0YXR1czwvdGg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
