@@ -214,9 +214,9 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/views.py" timestamp="1514277580779">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/views.py" timestamp="1514277588852">
         <mark key="'" line="2" column="28" />
-        <mark key="[" line="83" column="0" />
+        <mark key="[" line="83" column="34" />
         <mark key="]" line="83" column="35" />
         <mark key="^" line="83" column="32" />
         <mark key="." line="83" column="32" />
@@ -817,7 +817,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514277489273">
+      <file name="/Dummy.txt" timestamp="1514277584196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
