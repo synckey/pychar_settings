@@ -120,14 +120,18 @@
       <file name="$USER_HOME$/PycharmProjects/logistics/http/cookie.py" timestamp="1511850899167">
         <mark key="[" line="41" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qtypeahead_task/qtype_ahead_train/src/scripts/data.py" timestamp="1514359653420">
+      <file name="$USER_HOME$/IdeaProjects/qtypeahead_task/qtype_ahead_train/src/scripts/data.py" timestamp="1514359947273">
         <mark key="[" line="143" column="95" />
         <mark key="]" line="143" column="92" />
         <mark key="." line="143" column="92" />
         <mark key="^" line="143" column="92" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/redis_util.py" timestamp="1514359141554" />
-      <file name="/Dummy.txt" timestamp="1514359824923">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/redis_util.py" timestamp="1514359935324">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1514360033009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -156,12 +160,12 @@
         <mark key="^" line="17" column="103" />
         <mark key="." line="17" column="103" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/sync_to_redis.py" timestamp="1514359819009">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/sync_to_redis.py" timestamp="1514360020121">
         <mark key="'" line="70" column="16" />
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
+        <mark key="[" line="70" column="48" />
+        <mark key="]" line="70" column="38" />
+        <mark key="." line="70" column="38" />
+        <mark key="^" line="70" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/gendata/citydangci/run1.sh" timestamp="1514273171838" />
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/requirements.txt" timestamp="1510741776118">
@@ -280,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
