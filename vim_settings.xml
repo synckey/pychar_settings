@@ -845,7 +845,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514367450112">
+      <file name="/Dummy.txt" timestamp="1514367645402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -879,12 +879,6 @@
         <mark key="]" line="5" column="95" />
         <mark key="." line="5" column="95" />
         <mark key="^" line="5" column="94" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/models.py" timestamp="1514346257659">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/city_client.py" timestamp="1511145154164">
         <mark key="[" line="22" column="0" />
