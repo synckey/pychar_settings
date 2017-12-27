@@ -131,7 +131,7 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514361077755">
+      <file name="/Dummy.txt" timestamp="1514361281335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -160,12 +160,12 @@
         <mark key="^" line="17" column="103" />
         <mark key="." line="17" column="103" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/sync_to_redis.py" timestamp="1514360849423">
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/sync_to_redis.py" timestamp="1514361278609">
         <mark key="'" line="70" column="16" />
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-        <mark key="^" line="52" column="11" />
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/gendata/citydangci/run1.sh" timestamp="1514273171838" />
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/requirements.txt" timestamp="1510741776118">
