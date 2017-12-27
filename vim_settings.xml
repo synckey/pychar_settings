@@ -803,6 +803,12 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/.gitignore" timestamp="1514367643616">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/synckey.github.io/plugins/latex/latex.py" timestamp="1512543710031">
         <mark key="[" line="161" column="25" />
         <mark key="]" line="161" column="20" />
@@ -1047,7 +1053,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki5kYgo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1059,31 +1065,31 @@
         <text encoding="base64">PHA+PC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki5kYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cF9yZXRyaWVzID0gNAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3VnZXN0X3VybCA9ICdodHRwOi8vbC1xc3VnLmguYmV0YS5jbjAucXVuYXIuY29tOjg4MTEvZGVidWdMb2cnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aHR0cDovL3dpa2kuY29ycC5xdW5hci5jb20vY29uZmx1ZW5jZS9wYWdlcy92aWV3cGFnZS5hY3Rpb24/cGFnZUlkPTU3MzE5Mjg4Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBrYWZrYV9jb25zdW1lciBpbXBvcnQgZ2V0X2NvbnN1bWVyCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aHR0cF9yZXRyaWVzID0gNAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3VnZXN0X3VybCA9ICdodHRwOi8vbC1xc3VnLmguYmV0YS5jbjAucXVuYXIuY29tOjg4MTEvZGVidWdMb2cnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aHR0cDovL3dpa2kuY29ycC5xdW5hci5jb20vY29uZmx1ZW5jZS9wYWdlcy92aWV3cGFnZS5hY3Rpb24/cGFnZUlkPTU3MzE5Mjg4Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBrYWZrYV9jb25zdW1lciBpbXBvcnQgZ2V0X2NvbnN1bWVyCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IFJlcXVlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbHMgaW1wb3J0IFJlcXVlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKHBhdGggKyAiIHJlbW92ZWQiKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
