@@ -173,6 +173,7 @@
         <mark key="^" line="37" column="39" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/usr/local/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/estimators/linear.py" timestamp="1514447472233" />
       <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/datagenerator.py" timestamp="1492383917565">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="52" column="29" />
@@ -595,11 +596,11 @@
         <mark key="." line="207" column="25" />
         <mark key="^" line="207" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1514444072024">
-        <mark key="[" line="181" column="43" />
-        <mark key="]" line="181" column="46" />
-        <mark key="^" line="181" column="46" />
-        <mark key="." line="181" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1514448047844">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="^" line="211" column="15" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/train.txt" timestamp="1492243033204">
         <mark key="[" line="0" column="18" />
@@ -809,6 +810,12 @@
         <mark key="." line="161" column="20" />
         <mark key="^" line="161" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/restart_tensor_board.sh" timestamp="1514448767158">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_model.py" timestamp="1492470382123">
         <mark key="[" line="204" column="0" />
         <mark key="]" line="204" column="0" />
@@ -839,7 +846,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514432350792">
+      <file name="/Dummy.txt" timestamp="1514448803011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1039,7 +1046,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1051,31 +1058,31 @@
         <text encoding="base64">PHA+PC9wPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsLmV4cG9ydAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWxpYXMgL3N0YXRpYy8gL2hvbWUvcS9qaWFudy53YW5nL3VpZF9zZWFyY2hfdG9vbC93ZWIvc3RhdGljLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki5kYgo=</text>
+        <text encoding="base64">QWxpYXMgL3N0YXRpYy8gL2hvbWUvcS9qaWFudy53YW5nL3VpZF9zZWFyY2hfdG9vbC93ZWIvc3RhdGljLwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aHR0cF9yZXRyaWVzID0gNAo=</text>
+        <text encoding="base64">Ki5kYgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VnZXN0X3VybCA9ICdodHRwOi8vbC1xc3VnLmguYmV0YS5jbjAucXVuYXIuY29tOjg4MTEvZGVidWdMb2cnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cDovL3dpa2kuY29ycC5xdW5hci5jb20vY29uZmx1ZW5jZS9wYWdlcy92aWV3cGFnZS5hY3Rpb24/cGFnZUlkPTU3MzE5Mjg4Cg==</text>
+        <text encoding="base64">aHR0cF9yZXRyaWVzID0gNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
