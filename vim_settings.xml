@@ -734,6 +734,12 @@
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/test.py" timestamp="1514456168922">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/linear_kernel_svm.py" timestamp="1493018476264">
         <mark key="[" line="68" column="42" />
         <mark key="]" line="68" column="40" />
@@ -1045,11 +1051,11 @@
       <jump line="62" column="46" filename="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/run.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cgo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
