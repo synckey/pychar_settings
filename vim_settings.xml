@@ -21,6 +21,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/feature_column/feature_column.py" timestamp="1514457590030" />
       <file name="$USER_HOME$/PycharmProjects/deep_biq/tmp.py" timestamp="1492588050680">
         <mark key="[" line="25" column="58" />
         <mark key="]" line="25" column="81" />
@@ -659,6 +660,7 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="0" column="9" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/tools/inspect_checkpoint.py" timestamp="1514457543099" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/inception_v4.py" timestamp="1490767525165">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -734,11 +736,11 @@
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/test.py" timestamp="1514456168922">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/test.py" timestamp="1514457190357">
+        <mark key="[" line="3" column="67" />
+        <mark key="]" line="3" column="65" />
+        <mark key="^" line="3" column="65" />
+        <mark key="." line="3" column="65" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/linear_kernel_svm.py" timestamp="1493018476264">
         <mark key="[" line="68" column="42" />
@@ -804,6 +806,7 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/estimator/canned/linear.py" timestamp="1514457658616" />
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/.gitignore" timestamp="1514367816973">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="32" column="6" />
