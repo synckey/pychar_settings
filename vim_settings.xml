@@ -173,7 +173,7 @@
         <mark key="^" line="37" column="39" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/estimators/linear.py" timestamp="1514447472233" />
+      <file name="/usr/local/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/estimators/linear.py" timestamp="1514453334026" />
       <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/datagenerator.py" timestamp="1492383917565">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="52" column="29" />
@@ -596,11 +596,11 @@
         <mark key="." line="207" column="25" />
         <mark key="^" line="207" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1514450264665">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="^" line="211" column="15" />
-        <mark key="." line="211" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1514453594797">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/train.txt" timestamp="1492243033204">
         <mark key="[" line="0" column="18" />
@@ -846,7 +846,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514448834369">
+      <file name="/Dummy.txt" timestamp="1514452829476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
