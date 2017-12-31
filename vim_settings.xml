@@ -486,6 +486,7 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/estimator/estimator.py" timestamp="1514741604010" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/svm_regression.py" timestamp="1492068564213">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="24" column="0" />
