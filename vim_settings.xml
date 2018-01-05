@@ -21,7 +21,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/feature_column/feature_column.py" timestamp="1514457590030" />
       <file name="$USER_HOME$/PycharmProjects/deep_biq/tmp.py" timestamp="1492588050680">
         <mark key="[" line="25" column="58" />
         <mark key="]" line="25" column="81" />
@@ -174,7 +173,6 @@
         <mark key="^" line="37" column="39" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/estimators/linear.py" timestamp="1514453334026" />
       <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/datagenerator.py" timestamp="1492383917565">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="52" column="29" />
@@ -422,7 +420,6 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/tensorflow/python/ops/gen_parsing_ops.py" timestamp="1514443768978" />
       <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_label.py" timestamp="1492243205167">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="50" />
@@ -486,7 +483,6 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/estimator/estimator.py" timestamp="1514741604010" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/svm_regression.py" timestamp="1492068564213">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="24" column="0" />
@@ -661,7 +657,6 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/tools/inspect_checkpoint.py" timestamp="1514457543099" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/inception_v4.py" timestamp="1490767525165">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -755,7 +750,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="66" column="26" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/tensorflow/python/ops/gen_math_ops.py" timestamp="1514443879980" />
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/trans_data.py" timestamp="1513325943667">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="30" column="5" />
@@ -807,7 +801,6 @@
         <mark key="." line="25" column="56" />
         <mark key="^" line="25" column="56" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/estimator/canned/linear.py" timestamp="1514457658616" />
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/.gitignore" timestamp="1514367816973">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="32" column="6" />
@@ -856,7 +849,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514452829476">
+      <file name="/Dummy.txt" timestamp="1515138306689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -902,6 +895,7 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/census_data/adult.test" timestamp="1515138353734" />
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/log_greper/offline_log_grep.sh" timestamp="1514277386038">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="17" column="103" />
