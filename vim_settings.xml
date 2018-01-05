@@ -21,7 +21,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/feature_column/feature_column.py" timestamp="1515145254629" />
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/feature_column/feature_column.py" timestamp="1515145288554" />
       <file name="$USER_HOME$/PycharmProjects/deep_biq/tmp.py" timestamp="1492588050680">
         <mark key="[" line="25" column="58" />
         <mark key="]" line="25" column="81" />
@@ -299,7 +299,7 @@
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/qunar_img/qunarimg.py" timestamp="1510309434350">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515145237114">
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515145640098">
         <mark key="[" line="136" column="56" />
         <mark key="]" line="136" column="53" />
         <mark key="." line="136" column="53" />
@@ -848,7 +848,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515145078543">
+      <file name="/Dummy.txt" timestamp="1515145670550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
