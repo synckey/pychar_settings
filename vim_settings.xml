@@ -298,11 +298,11 @@
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/qunar_img/qunarimg.py" timestamp="1510309434350">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515396181134">
-        <mark key="[" line="129" column="75" />
-        <mark key="]" line="129" column="72" />
-        <mark key="." line="129" column="72" />
-        <mark key="^" line="129" column="72" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515397884554">
+        <mark key="[" line="133" column="84" />
+        <mark key="]" line="133" column="21" />
+        <mark key="." line="133" column="21" />
+        <mark key="^" line="133" column="21" />
       </file>
       <file name="/Python Console" timestamp="1514431985452">
         <mark key="[" line="0" column="0" />
@@ -1060,28 +1060,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsnc2MnLCAnbnNjJywgJ3BvaScsICduZWFyYnknLCAnYXJlYSddKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FnZV9idWNrZXRzLCAnZWR1Y2F0aW9uJywgJ29jY3VwYXRpb24nXSwgaGFzaF9idWNrZXRfc2l6ZT0xMDAwKSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5jcm9zc2VkX2NvbHVtbigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5jcm9zc2VkX2NvbHVtbigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW2FnZV9idWNrZXRzLCAnZWR1Y2F0aW9uJywgJ29jY3VwYXRpb24nXSwgaGFzaF9idWNrZXRfc2l6ZT0xMDAwKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2UsIGJvdW5kYXJpZXM9WzE4LCAyNSwgMzAsIDM1LCA0MCwgNDUsIDUwLCA1NSwgNjAsIDY1XSkK</text>
+        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5jcm9zc2VkX2NvbHVtbigK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFnZV9idWNrZXRzID0gdGYuZmVhdHVyZV9jb2x1bW4uYnVja2V0aXplZF9jb2x1bW4oCg==</text>
+        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5jcm9zc2VkX2NvbHVtbigK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVHJhbnNmb3JtYXRpb25zLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FnZV9idWNrZXRzLCAnZWR1Y2F0aW9uJywgJ29jY3VwYXRpb24nXSwgaGFzaF9idWNrZXRfc2l6ZT0xMDAwKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
