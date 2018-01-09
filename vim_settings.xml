@@ -299,11 +299,11 @@
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/qunar_img/qunarimg.py" timestamp="1510309434350">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515468472764">
-        <mark key="[" line="205" column="48" />
-        <mark key="]" line="205" column="50" />
-        <mark key="." line="205" column="50" />
-        <mark key="^" line="205" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515469120877">
+        <mark key="[" line="206" column="43" />
+        <mark key="]" line="206" column="96" />
+        <mark key="." line="206" column="96" />
+        <mark key="^" line="206" column="96" />
       </file>
       <file name="/Python Console" timestamp="1514431985452">
         <mark key="[" line="0" column="0" />
@@ -567,7 +567,7 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/data/train.csv" timestamp="1515467534495" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/data/train.csv" timestamp="1515468702303" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/andy_inception/andy_inception_v4.py" timestamp="1490867683982">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="19" column="10" />
@@ -847,7 +847,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515466168510">
+      <file name="/Dummy.txt" timestamp="1515469480601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1047,7 +1047,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5pbmRpY2F0b3JfY29sdW1uKHNjZW5lKSwK</text>
+        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5pbmRpY2F0b3JfY29sdW1uKGZhdkN1cnIpLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1056,7 +1056,7 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5pbmRpY2F0b3JfY29sdW1uKHNjZW5lKSwK</text>
+        <text encoding="base64">ICAgICAgICB0Zi5mZWF0dXJlX2NvbHVtbi5pbmRpY2F0b3JfY29sdW1uKGZhdkN1cnIpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyT3JkZXJlZFRoaXNIb3RlbENvdW50LAo=</text>
