@@ -548,11 +548,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="323" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/update.sh" timestamp="1515482758136">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/update.sh" timestamp="1515482880474">
+        <mark key="[" line="4" column="71" />
+        <mark key="]" line="4" column="70" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="4" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/reducer.py" timestamp="1511148680834">
         <mark key="[" line="24" column="29" />
@@ -862,7 +862,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515482809655">
+      <file name="/Dummy.txt" timestamp="1515482882368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
@@ -1061,10 +1061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
