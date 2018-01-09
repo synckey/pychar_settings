@@ -331,7 +331,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluation.txt" timestamp="1515491370829" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluation.txt" timestamp="1515491700275" />
       <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/includes/post-type/news.php" timestamp="1515471093419" />
       <file name="/Python Console" timestamp="1514431985452">
         <mark key="[" line="0" column="0" />
@@ -593,8 +593,11 @@
         <mark key="^" line="4" column="70" />
         <mark key="." line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluate.py" timestamp="1515491347181">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluate.py" timestamp="1515492591095">
+        <mark key="[" line="65" column="48" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/reducer.py" timestamp="1511148680834">
         <mark key="[" line="24" column="29" />
@@ -1112,43 +1115,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHdkPQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCB0b3AyMCwgdG9wMTAsIHRvdGFsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRmLmFwcC5ydW4obWFpbj1wcmVkaWN0LCBhcmd2PVtzeXMuYXJndlswXV0gKyB1bnBhcnNlZCkK</text>
+        <text encoding="base64">ICAgIHNjZW5lPWdyb3VwX2RhdGFbNF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHdkPQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCB0b3AyMCwgdG9wMTAsIHRvdGFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxhIGNsYXNzPSJwaWMgaW5mb19mbG93X25ld3NfaW1hZ2UgYmFkZ2UtTUJUIiBkYXRhLWZpdC1tb2JpbGU9InRydWUiIGRhdGEtbGF6eWxvYWQ9Ijw/cGhwIGVjaG8gTVRoZW1lc190aHVtYm5haWwoMTY1LDEyMCk7Pz4iIGhyZWY9Ijw/cGhwIHRoZV9wZXJtYWxpbmsoKTsgPz4iPjwvYT4K</text>
+        <text encoding="base64">dG9wMjAgPSAwLjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1ldHJpY3MgPSBtb2RlbC5ldmFsdWF0ZSgpCg==</text>
+        <text encoding="base64">dG90YWwgPSAxLjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RyKHBbJ2xvZ2lzdGljJ11bMF0pKQo=</text>
+        <text encoding="base64">dG9wMTAgPSAwLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1ldHJpY1twbGF0Zm9ybV09e30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocFsnbG9naXN0aWMnXVswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLnN0ZG91dC53cml0ZSgiJXMsICVzLCAlc1xuIiAlICggdG9wMTAgLyB0b3RhbCwgdG9wMjAgLyB0b3RhbCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgCg==</text>
+        <text encoding="base64">ICAgIHRvdGFsID0gdG90YWwgKyAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcDIwID0gdG9wMjAgKyAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRkxBR1MudGVzdF9kYXRhLCAxLCBGYWxzZSwgRkxBR1MuYmF0Y2hfc2l6ZSkpCg==</text>
+        <text encoding="base64">ICAgICdpb3MnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
