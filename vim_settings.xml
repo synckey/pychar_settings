@@ -298,11 +298,11 @@
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/qunar_img/qunarimg.py" timestamp="1510309434350">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515404334546">
-        <mark key="[" line="193" column="5" />
-        <mark key="]" line="192" column="22" />
-        <mark key="^" line="192" column="22" />
-        <mark key="." line="192" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep.py" timestamp="1515467190044">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="173" column="99" />
+        <mark key="^" line="173" column="99" />
+        <mark key="." line="173" column="99" />
       </file>
       <file name="/Python Console" timestamp="1514431985452">
         <mark key="[" line="0" column="0" />
@@ -566,6 +566,7 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/data/train.csv" timestamp="1515467097243" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/andy_inception/andy_inception_v4.py" timestamp="1490867683982">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="19" column="10" />
@@ -845,7 +846,7 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515409685476">
+      <file name="/Dummy.txt" timestamp="1515466168510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1510723912957">
