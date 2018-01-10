@@ -3,30 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/click_count/run.sh" timestamp="1511168264995">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/logistics/http/test.py" timestamp="1512369725012">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/data_download.py" timestamp="1514441638705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/feature_column/feature_column.py" timestamp="1515467800224" />
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/tmp.py" timestamp="1492588050680">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="81" />
-        <mark key="^" line="25" column="81" />
-        <mark key="." line="25" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/category_train.py" timestamp="1492384501987">
         <mark key="[" line="209" column="27" />
@@ -34,38 +15,14 @@
         <mark key="^" line="154" column="4" />
         <mark key="." line="153" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/image_processing.py" timestamp="1492433018999">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1511850542956">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cifar10_train.py" timestamp="1492185262696">
-        <mark key="[" line="137" column="4" />
-        <mark key="]" line="137" column="4" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="137" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/run.sh" timestamp="1511146646936">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/pv/hotel_calculate_pv.py" timestamp="1505879041015">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/list_render_differ.html" timestamp="1496824656635">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="^" line="30" column="25" />
-        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/common.sh" timestamp="1493260605173">
         <mark key="[" line="7" column="31" />
@@ -84,18 +41,6 @@
         <mark key="]" line="13" column="23" />
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_quality_label.py" timestamp="1492420472667">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/test_model.py" timestamp="1493001864683">
-        <mark key="[" line="168" column="22" />
-        <mark key="]" line="144" column="2" />
-        <mark key="." line="144" column="2" />
-        <mark key="^" line="144" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/alexnet.py" timestamp="1492393892972">
         <mark key="[" line="75" column="18" />
@@ -121,29 +66,11 @@
         <mark key="^" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/style.css" timestamp="1515486345356">
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/style.css" timestamp="1515550602628">
         <mark key="[" line="605" column="64" />
         <mark key="]" line="605" column="62" />
         <mark key="^" line="605" column="62" />
         <mark key="." line="605" column="62" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templatetags/timetags.py" timestamp="1513929774158">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/models/inception/inception/inception_train.py" timestamp="1490782893013">
-        <mark key="[" line="50" column="46" />
-        <mark key="]" line="50" column="44" />
-        <mark key="^" line="50" column="44" />
-        <mark key="." line="50" column="44" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/eval_validation.py" timestamp="1492339917600">
-        <mark key="[" line="91" column="19" />
-        <mark key="]" line="91" column="10" />
-        <mark key="^" line="91" column="10" />
-        <mark key="." line="91" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/export_features/run.sh" timestamp="1511168889343">
         <mark key="[" line="15" column="21" />
@@ -157,12 +84,6 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/httpd.conf" timestamp="1514370752585">
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="0" />
-        <mark key="^" line="352" column="28" />
-        <mark key="." line="363" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/gen.py" timestamp="1503235766277">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="58" column="49" />
@@ -175,41 +96,17 @@
         <mark key="." line="69" column="41" />
         <mark key="^" line="69" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/web/settings.py" timestamp="1514280135936">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/datagenerator.py" timestamp="1492383917565">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="52" column="29" />
         <mark key="^" line="52" column="29" />
         <mark key="." line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluation.sh" timestamp="1515491246089">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/hotel-rank-parse/hotel-rank-parse-task/src/main/resources/mr-scripts/run.sh" timestamp="1493173393608">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/export_features.py" timestamp="1511167791626">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/calc_real_time_hprice.sql" timestamp="1493350108872">
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="1" column="38" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/train.txt" timestamp="1492227477688">
         <mark key="[" line="2" column="19" />
@@ -222,18 +119,6 @@
         <mark key="]" line="432" column="28" />
         <mark key="." line="432" column="28" />
         <mark key="^" line="432" column="28" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/datagenerator.py" timestamp="1492587126091">
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="34" column="26" />
-      </file>
-      <file name="$USER_HOME$/Downloads/liblinear-2.11/python/liblinear.py" timestamp="1492074085478">
-        <mark key="[" line="29" column="62" />
-        <mark key="]" line="29" column="59" />
-        <mark key="^" line="29" column="59" />
-        <mark key="." line="29" column="59" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/404.php" timestamp="1515482951903">
         <mark key="[" line="2" column="21" />
@@ -249,12 +134,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/rbf_svr.py" timestamp="1492352960198">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/data/test.csv" timestamp="1515478829222" />
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/estimate.py" timestamp="1510818872718">
@@ -275,6 +154,499 @@
         <mark key="^" line="25" column="35" />
         <mark key="." line="25" column="35" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/reducer.py" timestamp="1493716133395">
+        <mark key="[" line="31" column="74" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/flowers_train.py" timestamp="1492175794444">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/lstm_and_ctc_ocr_train.py" timestamp="1503231889276">
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="28" />
+        <mark key="^" line="92" column="11" />
+        <mark key="." line="92" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/monitor/urls.py" timestamp="1496824609828">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513317778758">
+        <mark key="[" line="198" column="30" />
+        <mark key="]" line="198" column="30" />
+        <mark key="^" line="198" column="30" />
+        <mark key="." line="198" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/category.php" timestamp="1515487633483">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/formated_log.html" timestamp="1514367448320">
+        <mark key="[" line="5" column="74" />
+        <mark key="]" line="5" column="73" />
+        <mark key="." line="5" column="73" />
+        <mark key="^" line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/base.html" timestamp="1497240219407">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="64" />
+        <mark key="." line="11" column="64" />
+        <mark key="^" line="11" column="64" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/tensorflow_lstm_ctc_ocr/README.md" timestamp="1507794752865">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/ddl/create_table.sql" timestamp="1493280416139">
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/imagenet_data/raw-data/labels.txt" timestamp="1492151754035">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/tests.py" timestamp="1514362333376">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/search_by_uid.html" timestamp="1514365600477">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_label.py" timestamp="1492243205167">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/inception_eval.py" timestamp="1492175723542">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="47" />
+        <mark key="^" line="45" column="47" />
+        <mark key="." line="45" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/count_dic.py" timestamp="1511165696561">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/redis.py" timestamp="1510304378010">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/estimator/estimator.py" timestamp="1515486074903" />
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/svm_regression.py" timestamp="1492068564213">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_eval_once.py" timestamp="1492180015511">
+        <mark key="[" line="96" column="49" />
+        <mark key="]" line="86" column="14" />
+        <mark key="." line="86" column="14" />
+        <mark key="^" line="86" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/http_utils.py" timestamp="1511148782569">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="36" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/monitor/settings.py" timestamp="1497342129824">
+        <mark key="[" line="26" column="81" />
+        <mark key="]" line="26" column="73" />
+        <mark key="^" line="26" column="73" />
+        <mark key="." line="26" column="73" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/flowers_data.py" timestamp="1492434398754">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/modules/widgets/MBT-tabs.php" timestamp="1515488442111">
+        <mark key="[" line="87" column="57" />
+        <mark key="]" line="87" column="57" />
+        <mark key="." line="87" column="57" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/__init__.py" timestamp="1492244381727">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/update.sh" timestamp="1515482880474">
+        <mark key="[" line="4" column="71" />
+        <mark key="]" line="4" column="70" />
+        <mark key="^" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluate.py" timestamp="1515492618639">
+        <mark key="[" line="65" column="48" />
+        <mark key="]" line="61" column="29" />
+        <mark key="." line="61" column="29" />
+        <mark key="^" line="61" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/reducer.py" timestamp="1511148680834">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/README.md" timestamp="1503230398262">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/andy_inception/andy_inception_v4.py" timestamp="1490867683982">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/urls.py" timestamp="1514169933373">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_train.py" timestamp="1492445970085">
+        <mark key="[" line="207" column="23" />
+        <mark key="]" line="207" column="25" />
+        <mark key="." line="207" column="25" />
+        <mark key="^" line="207" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1515486566207">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/model.py" timestamp="1511166443708">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="22" />
+        <mark key="^" line="43" column="22" />
+        <mark key="." line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/xgbtrain.sh" timestamp="1513566281843">
+        <mark key="[" line="26" column="84" />
+        <mark key="]" line="26" column="84" />
+        <mark key="." line="26" column="84" />
+        <mark key="^" line="26" column="72" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/log/logger.py" timestamp="1510912647645">
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/modules/newsListNavBar.php" timestamp="1515471750588">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/testJson.html" timestamp="1497240478937">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/inception_v4.py" timestamp="1490767525165">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/build_image_data.py" timestamp="1492151729338">
+        <mark key="[" line="94" column="74" />
+        <mark key="]" line="94" column="13" />
+        <mark key="." line="94" column="13" />
+        <mark key="^" line="94" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/conf.py" timestamp="1514367217738">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_data.py" timestamp="1492434361892">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/inception_train.py" timestamp="1490767671318">
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="50" column="44" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/prediction.txt" timestamp="1515485290254">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/click_count/mapper.py" timestamp="1511236612465">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/test.py" timestamp="1514457190357">
+        <mark key="[" line="3" column="67" />
+        <mark key="]" line="3" column="65" />
+        <mark key="^" line="3" column="65" />
+        <mark key="." line="3" column="65" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/data/crop_img.py" timestamp="1494928732606">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="66" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/trans_data.py" timestamp="1513325943667">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/test.py" timestamp="1503234611917">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/static/css/json.css" timestamp="1497240047857">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/image_net/resize_80x80.py" timestamp="1490598736131">
+        <mark key="[" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/tensorflow_lstm_ctc_ocr/gen.py" timestamp="1507793292482">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/web/pitures/urls.py" timestamp="1496743525229">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+        <mark key="^" line="25" column="56" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/.gitignore" timestamp="1514367816973">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_model.py" timestamp="1492470382123">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+        <mark key="^" line="205" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/qunar/machine_learning/img_classfication/image_net/resize_80x80.py" timestamp="1490596957841">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/crab_render_detail.html" timestamp="1497247341193">
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="58" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515550631629">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1510723912957">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/finetune.py" timestamp="1492387138485">
+        <mark key="[" line="176" column="9" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/run_hive.sh" timestamp="1493204916906">
+        <mark key="[" line="5" column="95" />
+        <mark key="]" line="5" column="95" />
+        <mark key="." line="5" column="95" />
+        <mark key="^" line="5" column="94" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep_test.py" timestamp="1515478855568">
+        <mark key="[" line="51" column="54" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/city_client.py" timestamp="1511145154164">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/urls.py" timestamp="1496830496639">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/svr.py" timestamp="1510737141314">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/index.php" timestamp="1515487649098">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/click_count/run.sh" timestamp="1511168264995">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/logistics/http/test.py" timestamp="1512369725012">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="/Library/Python/2.7/site-packages/tensorflow/python/feature_column/feature_column.py" timestamp="1515467800224" />
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/tmp.py" timestamp="1492588050680">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="81" />
+        <mark key="^" line="25" column="81" />
+        <mark key="." line="25" column="81" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/image_processing.py" timestamp="1492433018999">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cifar10_train.py" timestamp="1492185262696">
+        <mark key="[" line="137" column="4" />
+        <mark key="]" line="137" column="4" />
+        <mark key="^" line="43" column="30" />
+        <mark key="." line="137" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/pv/hotel_calculate_pv.py" timestamp="1505879041015">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/list_render_differ.html" timestamp="1496824656635">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_quality_label.py" timestamp="1492420472667">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/test_model.py" timestamp="1493001864683">
+        <mark key="[" line="168" column="22" />
+        <mark key="]" line="144" column="2" />
+        <mark key="." line="144" column="2" />
+        <mark key="^" line="144" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templatetags/timetags.py" timestamp="1513929774158">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/models/inception/inception/inception_train.py" timestamp="1490782893013">
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="50" column="44" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/eval_validation.py" timestamp="1492339917600">
+        <mark key="[" line="91" column="19" />
+        <mark key="]" line="91" column="10" />
+        <mark key="^" line="91" column="10" />
+        <mark key="." line="91" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/httpd.conf" timestamp="1514370752585">
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="0" />
+        <mark key="^" line="352" column="28" />
+        <mark key="." line="363" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/web/settings.py" timestamp="1514280135936">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluation.sh" timestamp="1515491246089">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/export_features.py" timestamp="1511167791626">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/calc_real_time_hprice.sql" timestamp="1493350108872">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/datagenerator.py" timestamp="1492587126091">
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/liblinear-2.11/python/liblinear.py" timestamp="1492074085478">
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="29" column="59" />
+        <mark key="." line="29" column="59" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/deep_biq/rbf_svr.py" timestamp="1492352960198">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/test/test.py" timestamp="1510303149423">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -287,11 +659,8 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/reducer.py" timestamp="1493716133395">
-        <mark key="[" line="31" column="74" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/static/js/ias.min.js" timestamp="1515550635369">
+        <mark key="[" line="10" column="110" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/linear_alexnet.py" timestamp="1492421635462">
         <mark key="[" line="105" column="60" />
@@ -334,12 +703,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/flowers_train.py" timestamp="1492175794444">
-        <mark key="[" line="35" column="26" />
-        <mark key="]" line="36" column="42" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="36" column="42" />
-      </file>
       <file name="/fragment.py" timestamp="1491890488433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -349,47 +712,11 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/lstm_and_ctc_ocr_train.py" timestamp="1503231889276">
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="28" />
-        <mark key="^" line="92" column="11" />
-        <mark key="." line="92" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/monitor/urls.py" timestamp="1496824609828">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cifar10_model.py" timestamp="1492225443923">
         <mark key="[" line="157" column="53" />
         <mark key="]" line="160" column="71" />
         <mark key="^" line="160" column="71" />
         <mark key="." line="160" column="71" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/train.sh" timestamp="1513317778758">
-        <mark key="[" line="198" column="30" />
-        <mark key="]" line="198" column="30" />
-        <mark key="^" line="198" column="30" />
-        <mark key="." line="198" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/category.php" timestamp="1515487633483">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/formated_log.html" timestamp="1514367448320">
-        <mark key="[" line="5" column="74" />
-        <mark key="]" line="5" column="73" />
-        <mark key="." line="5" column="73" />
-        <mark key="^" line="5" column="73" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/base.html" timestamp="1497240219407">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="64" />
-        <mark key="." line="11" column="64" />
-        <mark key="^" line="11" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/train.sh" timestamp="1513246082063">
         <mark key="[" line="18" column="30" />
@@ -403,29 +730,11 @@
         <mark key="^" line="35" column="50" />
         <mark key="." line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tensorflow_lstm_ctc_ocr/README.md" timestamp="1507794752865">
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="15" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/slim/slim.py" timestamp="1491920043746">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
         <mark key="^" line="24" column="42" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/ddl/create_table.sql" timestamp="1493280416139">
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/imagenet_data/raw-data/labels.txt" timestamp="1492151754035">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/train.sh" timestamp="1510899554991">
         <mark key="[" line="3" column="49" />
@@ -433,35 +742,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/tests.py" timestamp="1514362333376">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/data/build_image_quality_data.py" timestamp="1492236311547">
         <mark key="[" line="106" column="26" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
         <mark key="^" line="107" column="43" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/search_by_uid.html" timestamp="1514365600477">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="51" />
-        <mark key="." line="5" column="51" />
-        <mark key="^" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/data/generate_label.py" timestamp="1492243205167">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="50" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/inception_eval.py" timestamp="1492175723542">
-        <mark key="[" line="45" column="47" />
-        <mark key="]" line="45" column="47" />
-        <mark key="^" line="45" column="47" />
-        <mark key="." line="45" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/templates/base.html" timestamp="1514278983155">
         <mark key="[" line="18" column="74" />
@@ -493,12 +778,6 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/count_dic.py" timestamp="1511165696561">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="36" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/content.php" timestamp="1515487882535">
         <mark key="[" line="3" column="123" />
         <mark key="]" line="3" column="119" />
@@ -508,48 +787,11 @@
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/kernels_svm.py" timestamp="1492004494572">
         <mark key="[" line="68" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/redis.py" timestamp="1510304378010">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="/Library/Python/2.7/site-packages/tensorflow/python/estimator/estimator.py" timestamp="1515486074903" />
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/svm_regression.py" timestamp="1492068564213">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/web/urls.py" timestamp="1514259753052">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_eval_once.py" timestamp="1492180015511">
-        <mark key="[" line="96" column="49" />
-        <mark key="]" line="86" column="14" />
-        <mark key="." line="86" column="14" />
-        <mark key="^" line="86" column="14" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/http_utils.py" timestamp="1511148782569">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="36" column="2" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/monitor/settings.py" timestamp="1497342129824">
-        <mark key="[" line="26" column="81" />
-        <mark key="]" line="26" column="73" />
-        <mark key="^" line="26" column="73" />
-        <mark key="." line="26" column="73" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/flowers_data.py" timestamp="1492434398754">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/conf.py" timestamp="1510908141854">
         <mark key="[" line="9" column="44" />
@@ -570,49 +812,17 @@
         <mark key="." line="58" column="33" />
         <mark key="^" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/modules/widgets/MBT-tabs.php" timestamp="1515488442111">
-        <mark key="[" line="87" column="57" />
-        <mark key="]" line="87" column="57" />
-        <mark key="." line="87" column="57" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/__init__.py" timestamp="1492244381727">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="17" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/nets/inception_v4.py" timestamp="1490768573317">
         <mark key="[" line="323" column="25" />
         <mark key="]" line="323" column="25" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="323" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/update.sh" timestamp="1515482880474">
-        <mark key="[" line="4" column="71" />
-        <mark key="]" line="4" column="70" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="4" column="70" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/evaluate.py" timestamp="1515492618639">
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="61" column="29" />
-        <mark key="." line="61" column="29" />
-        <mark key="^" line="61" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/reducer.py" timestamp="1511148680834">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/build_cnn_image_data.py" timestamp="1492433802731">
         <mark key="[" line="81" column="33" />
         <mark key="]" line="78" column="33" />
         <mark key="." line="78" column="33" />
         <mark key="^" line="78" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/README.md" timestamp="1503230398262">
-        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/pv/db_util.py" timestamp="1505888903443">
         <mark key="[" line="12" column="19" />
@@ -621,44 +831,14 @@
         <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/data/train.csv" timestamp="1515468702303" />
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/andy_inception/andy_inception_v4.py" timestamp="1490867683982">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_eval.py" timestamp="1492176388103">
         <mark key="[" line="160" column="50" />
         <mark key="]" line="160" column="48" />
         <mark key="." line="160" column="48" />
         <mark key="^" line="160" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/urls.py" timestamp="1514169933373">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_train.py" timestamp="1492445970085">
-        <mark key="[" line="207" column="23" />
-        <mark key="]" line="207" column="25" />
-        <mark key="." line="207" column="25" />
-        <mark key="^" line="207" column="25" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/wide_deep.py" timestamp="1515486566207">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/train.txt" timestamp="1492243033204">
         <mark key="[" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/model.py" timestamp="1511166443708">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="22" />
-        <mark key="^" line="43" column="22" />
-        <mark key="." line="43" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templatetages/timetags.py" timestamp="1497237482414">
         <mark key="[" line="12" column="0" />
@@ -671,12 +851,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/xgbtrain.sh" timestamp="1513566281843">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="26" column="84" />
-        <mark key="." line="26" column="84" />
-        <mark key="^" line="26" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/evaluate.py" timestamp="1513579431799">
         <mark key="[" line="48" column="35" />
@@ -691,47 +865,11 @@
         <mark key="^" line="44" column="1" />
         <mark key="." line="45" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/log/logger.py" timestamp="1510912647645">
-        <mark key="[" line="58" column="44" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/urls.py" timestamp="1514365161827">
         <mark key="[" line="23" column="59" />
         <mark key="]" line="23" column="59" />
         <mark key="^" line="23" column="59" />
         <mark key="." line="23" column="59" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/modules/newsListNavBar.php" timestamp="1515471750588">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/testJson.html" timestamp="1497240478937">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/inception_v4.py" timestamp="1490767525165">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/data/build_image_data.py" timestamp="1492151729338">
-        <mark key="[" line="94" column="74" />
-        <mark key="]" line="94" column="13" />
-        <mark key="." line="94" column="13" />
-        <mark key="^" line="94" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/conf.py" timestamp="1514367217738">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="39" />
-        <mark key="^" line="1" column="39" />
-        <mark key="." line="1" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/__init__.py" timestamp="1491899440865">
         <mark key="[" line="5" column="34" />
@@ -766,32 +904,11 @@
         <mark key="^" line="163" column="19" />
         <mark key="." line="163" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/archive-news.php" timestamp="1515550301267">
+      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/archive-news.php" timestamp="1515550450490">
         <mark key="[" line="5" column="77" />
         <mark key="]" line="8" column="51" />
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="51" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_data.py" timestamp="1492434361892">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_qulity/inception_train.py" timestamp="1490767671318">
-        <mark key="[" line="50" column="46" />
-        <mark key="]" line="50" column="44" />
-        <mark key="^" line="50" column="44" />
-        <mark key="." line="50" column="44" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/prediction.txt" timestamp="1515485290254">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/mr/click_count/mapper.py" timestamp="1511236612465">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="19" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/deep_biq/alexnet.py" timestamp="1492573527913">
         <mark key="[" line="70" column="22" />
@@ -799,56 +916,17 @@
         <mark key="." line="70" column="26" />
         <mark key="^" line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/wide_deep/test.py" timestamp="1514457190357">
-        <mark key="[" line="3" column="67" />
-        <mark key="]" line="3" column="65" />
-        <mark key="^" line="3" column="65" />
-        <mark key="." line="3" column="65" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/test/linear_kernel_svm.py" timestamp="1493018476264">
         <mark key="[" line="68" column="42" />
         <mark key="]" line="68" column="40" />
         <mark key="." line="68" column="40" />
         <mark key="^" line="68" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/deep_biq/data/crop_img.py" timestamp="1494928732606">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="66" column="26" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/train-script/xgboost/trans_data.py" timestamp="1513325943667">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="30" column="5" />
-        <mark key="^" line="30" column="5" />
-        <mark key="." line="30" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/test.py" timestamp="1503234611917">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/score_a_piture.py" timestamp="1492156961684">
         <mark key="[" line="66" column="58" />
         <mark key="]" line="166" column="8" />
         <mark key="." line="166" column="8" />
         <mark key="^" line="166" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/static/css/json.css" timestamp="1497240047857">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/image_net/resize_80x80.py" timestamp="1490598736131">
-        <mark key="[" line="6" column="36" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/tensorflow_lstm_ctc_ocr/gen.py" timestamp="1507793292482">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/list_render_status_not_same_chart.html" timestamp="1498703649944">
         <mark key="[" line="44" column="66" />
@@ -862,18 +940,6 @@
         <mark key="^" line="142" column="35" />
         <mark key="." line="142" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/web/pitures/urls.py" timestamp="1496743525229">
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="56" />
-        <mark key="^" line="25" column="56" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/uid_search_tool/.gitignore" timestamp="1514367816973">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="32" column="6" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="6" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/synckey.github.io/plugins/latex/latex.py" timestamp="1512543710031">
         <mark key="[" line="161" column="25" />
         <mark key="]" line="161" column="20" />
@@ -886,47 +952,17 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/cnn_model.py" timestamp="1492470382123">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
-        <mark key="^" line="205" column="2" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qtypeahead_task/qtype_ahead_train/src/scripts/data.py" timestamp="1514362735196">
         <mark key="[" line="143" column="95" />
         <mark key="]" line="143" column="92" />
         <mark key="." line="143" column="92" />
         <mark key="^" line="143" column="92" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/qunar/machine_learning/img_classfication/image_net/resize_80x80.py" timestamp="1490596957841">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/templates/crab_render_detail.html" timestamp="1497247341193">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="28" />
-        <mark key="^" line="55" column="23" />
-        <mark key="." line="58" column="28" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/redis_util.py" timestamp="1514364596832">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1515550301936">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1510723912957">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/finetune_alexnet_with_tensorflow/finetune.py" timestamp="1492387138485">
-        <mark key="[" line="176" column="9" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/slim/inception_test.py" timestamp="1491881740477">
         <mark key="[" line="19" column="20" />
@@ -936,30 +972,6 @@
         <mark key="]" line="95" column="23" />
         <mark key="^" line="95" column="23" />
         <mark key="." line="95" column="23" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/mobile_hotel_rank_parse/src/script/hotel/profit/mr/run_hive.sh" timestamp="1493204916906">
-        <mark key="[" line="5" column="95" />
-        <mark key="]" line="5" column="95" />
-        <mark key="." line="5" column="95" />
-        <mark key="^" line="5" column="94" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/distributed_train/deep_wide/wide_deep_test.py" timestamp="1515478855568">
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="43" column="51" />
-        <mark key="^" line="43" column="51" />
-        <mark key="." line="43" column="51" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/qtypeahead_task/qtype_ahead_train/src/scripts/city_client.py" timestamp="1511145154164">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/hotelroomstatus/src/main/resources/monitor/hprice/urls.py" timestamp="1496830496639">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/uid_search_tool/web/search_log_tool/log_greper/offline_log_grep.sh" timestamp="1514277386038">
         <mark key="[" line="18" column="12" />
@@ -982,9 +994,6 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/svr.py" timestamp="1510737141314">
-        <mark key="[" line="7" column="0" />
-      </file>
       <file name="/Library/Python/2.7/site-packages/tensorflow/python/data/ops/dataset_ops.py" timestamp="1515479147372" />
       <file name="$USER_HOME$/PycharmProjects/machine_learning/img_classfication/img_quality/inception/slim/cnn_model.py" timestamp="1492443283555">
         <mark key="[" line="73" column="93" />
@@ -1003,12 +1012,6 @@
         <mark key="]" line="13" column="78" />
         <mark key="." line="13" column="78" />
         <mark key="^" line="13" column="78" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sanyanblockchain.com/themes/monkey/index.php" timestamp="1515487649098">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="44" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="44" />
       </file>
     </filemarks>
     <jumps>
